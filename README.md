@@ -8,5 +8,4 @@
 - 🤔 I’m looking for help with project funding
 - 💬 Ask me about Bluetooth LE and SwiftUI
 - 🦋 How to reach me: [@fraune.bsky.social](https://bsky.app/profile/fraune.bsky.social)
-- 😄 Pronouns: any pronouns
 - 🤙 Fun fact: I skate, surf, and juggle
