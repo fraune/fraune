@@ -9,3 +9,8 @@
 - 💬 Ask me about Bluetooth LE and SwiftUI
 - 🦋 How to reach me: [@fraune.bsky.social](https://bsky.app/profile/fraune.bsky.social)
 - 🤙 Fun fact: I skate, surf, and juggle
+
+**Find me on my web zones**
+
+- [main site - fraune.org](https://fraune.org)
+- [css gen tool - outofbody.app](https://outofbody.app)
